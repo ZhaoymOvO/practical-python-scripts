@@ -2,6 +2,8 @@
 
 A few small scripts I wrote for fun, which might be a bit useful. Future maintenance is uncertain.
 
+All scripts in this repository are released under the Mozilla Public License 2.0.
+
 ## scripts list
 
 - `fibonacci.py`: This is a script that uses a recursive algorithm to generate the value of the nth term of the Fibonacci sequence.
